@@ -3,3 +3,5 @@ $colorPrimary: #2f5572 ;
 $colorSecondary: #d59541 ;
 $colorLight: #fff ;
 $colorLightBlue: #e0e6ef ;
+$colorDarkHeader: rgba(23, 51, 72, .85);
+$colorHeaderLink: #fabb69;

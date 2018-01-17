@@ -1175,10 +1175,14 @@ a {
     }
 
         .site-header--dark .site-header__logo {
-          -webkit-transform: scale(.55);
-                  transform: scale(.55);
+          -webkit-transform: scale(.56);
+                  transform: scale(.56);
         }
   }
+
+.site-header__logo__graphic {
+      text-indent: -9999px;
+    }
 
 .site-header__menu-icon {
       width: 20px;
